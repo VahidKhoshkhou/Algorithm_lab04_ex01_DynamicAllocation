@@ -35,7 +35,7 @@ string_t *readInput(char *fileName , int *numLine){
     FILE *fp;
     int num_line;
 
-    /* open file*/
+    /* open file for reading first line*/
    fp = fopen(fileName, "r");
    if (fp == NULL) {
      printf("Error opening the file %s.\n", fileName);
