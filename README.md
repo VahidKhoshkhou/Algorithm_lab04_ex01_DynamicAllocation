@@ -48,7 +48,7 @@ Example
 -------
 
 The following is an example of a correct input file:
-
+`
 10
 this
 is
@@ -60,9 +60,9 @@ used
 to
 order
 strings
-
+`
 and the following is the corresponding output file:
-
+`
 10
 an
 example
@@ -74,3 +74,4 @@ strings
 this
 to
 used
+`
