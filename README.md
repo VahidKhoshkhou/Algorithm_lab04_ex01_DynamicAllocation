@@ -49,29 +49,29 @@ Example
 
 The following is an example of a correct input file:
 `
-10
-this
-is
-an
-example
-of
-file
-used
-to
-order
-strings
+10  <br />
+this  <br />
+is    <br />
+an     <br />
+example   <br />
+of   <br />
+file   <br />
+used  <br />
+to <br />
+order <br /> <br /> <br /> <br /> <br />
+strings <br /> <br /> <br /> <br />
 `
 and the following is the corresponding output file:
 `
-10
-an
-example
-file
-is
-of
-order
-strings
-this
-to
-used
+10 <br /> 
+an <br /> 
+example <br />
+file <br />
+is <br />
+of <br />
+order <br />
+strings <br />
+this <br />
+to <br />
+used <br />
 `
